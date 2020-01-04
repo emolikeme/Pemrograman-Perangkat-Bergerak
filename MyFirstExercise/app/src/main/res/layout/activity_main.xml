@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="19dp"
+        android:text="BIOADATA MAHASISWA"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_gravity="center" />
+
+    <ImageView
+        android:layout_width="172dp"
+        android:layout_height="80dp"
+        android:src="@drawable/test"
+        android:layout_gravity="center"
+        android:layout_marginTop="4dp"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_marginTop="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Nama : Daffa Agusta Sang Putra"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_marginTop="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NIM : 3.37.18.0.02"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_marginTop="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TTL : Semarang,18 Januari 2000"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prodi : Teknik Informatika"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_marginTop="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CIta-cita : CEO"
+        android:layout_gravity="center"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="content_text">Dicoding adalah tempat untuk belajar pemrograman perangkat
+    bergerak baik dengan android, IOS maupun Windows Phone. Selain itu di sini juga dapat
+    belajar seperti HTML,CSS,PHP,JavaScript dan lain lain. Tidak perlu ragu untuk mendaftar
+    di dicoding karena kita akan mengajari dari nol sampai kalian lulus mendapatkan sertifikat
+    yang berguna untuk dunia kerja nanti. Ayo buruan daftar sebelum daftar itu berbayar.</string>
+</resources>

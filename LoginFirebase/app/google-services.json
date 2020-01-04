@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856414175089",
+    "firebase_url": "https://loginfirebase-5d16d.firebaseio.com",
+    "project_id": "loginfirebase-5d16d",
+    "storage_bucket": "loginfirebase-5d16d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856414175089:android:0bbddbdcd22671cdb9c0d0",
+        "android_client_info": {
+          "package_name": "com.example.daffa.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856414175089-pl71ej9kujli9hgj4hs9td2p5cdugrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1hT3X51ZB9LTaRHxg9hu6Qs_3jqMN_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856414175089-pl71ej9kujli9hgj4hs9td2p5cdugrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
